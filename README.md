@@ -27,10 +27,21 @@ The goal of this analysis is to understand how the pandemic affected mental heal
 
 ## 📁 Files Included
 
-- `Covid_Depression_Case_.Studyxlsx.xlsx` – original dataset  
-- `R markdown Homework.pdf` – R script and summary  
-- `Violin Plot`, `Scatter Plot`, and `Summary Statistics` PDFs  
-- `The Silent Pandemic.docx` – final paper summarizing findings
+### 📊 Datasets (`/data` folder)
+- **Covid_Depression_Case_Study.xlsx** – Raw dataset used for all analysis
+- **Depression_Prevalence_Gender_table.xlsx** – Cleaned data showing depression patterns by gender
+- **Depression_Prevalence_Profession_Vietnam_table.xlsx** – Data comparing depression by profession in Vietnam
+- **Depression_Prevalence_Vietnam_table.xlsx** – Regional breakdown of depression prevalence (urban vs rural)
+
+### 📈 Analysis Outputs (`/analysis` folder)
+- Summary statistics (Assignment 5)
+- Violin plot by assessment method
+- Scatter plot: sample size vs. age
+- R markdown script used for visuals
+
+### 📝 Final Report (`/paper` folder)
+- **The Silent Pandemic.docx** – Final paper with data interpretation, visual insights, and key findings
+
 
 ## 📌 What I Learned
 
