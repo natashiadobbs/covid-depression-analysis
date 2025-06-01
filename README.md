@@ -33,11 +33,15 @@ The goal of this analysis is to understand how the pandemic affected mental heal
 - **Depression_Prevalence_Profession_Vietnam_table.xlsx** – Data comparing depression by profession in Vietnam
 - **Depression_Prevalence_Vietnam_table.xlsx** – Regional breakdown of depression prevalence (urban vs rural)
 
-### 📈 Analysis Outputs (`/analysis` folder)
-- Summary statistics (Assignment 5)
-- Violin plot by assessment method
-- Scatter plot: sample size vs. age
-- R markdown script used for visuals
+### Analysis Outputs (`/analysis` folder)
+
+- **Depression Case Study Analysis** — Complete write-up using R Markdown, including summary statistics, visualizations, and code walkthrough
+- **Depression Summary Statistics** — Descriptive analysis of depression scores across studies
+- **Violin Plot – Depression by Assessment Tool** — Visual comparison of depression levels based on screening tools (PHQ-9, DASS-21, etc.)
+- **Scatter Plot – Sample Size vs. Mean Age** — Exploratory plot showing relationships between study size and participant age
+- **Depression Prevalence by Group** — Breakdown of depression data by gender, profession, and region
+- **Ggplot Chart – Depression by Study** — Final data visualization showing depression levels across multiple studies
+
 
 ### 📝 Final Report (`/paper` folder)
 - **The Silent Pandemic.docx** – Final paper with data interpretation, visual insights, and key findings
